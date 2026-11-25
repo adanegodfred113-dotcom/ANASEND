@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+momo_data.json
+.venv/
+venv/
+.idea/
